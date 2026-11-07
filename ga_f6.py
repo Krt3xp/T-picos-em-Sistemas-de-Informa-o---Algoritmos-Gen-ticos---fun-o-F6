@@ -1,5 +1,7 @@
 """AG para maximizar a F6 apresentada em IC_2_1.pdf (páginas 80–88).
 
+Autor: Eduardo de Souza Martins
+
 Execute: python ga_f6.py --seed 2026
 Depende apenas da biblioteca padrão.
 """
@@ -120,4 +122,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
 
